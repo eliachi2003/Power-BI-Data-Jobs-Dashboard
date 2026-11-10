@@ -59,3 +59,11 @@ The dashboard allows users to:
 - Add country-specific salary comparisons.
 - Explore relationships between technical skills and compensation.
 - Include additional job market trends over time.
+
+- ## Download Power BI Project
+
+Download the original Power BI dashboard to explore the data model, DAX calculations, and interactive visualizations in Power BI Desktop.
+
+[📥 Download Power BI Dashboard](https://1drv.ms/u/c/86b04e3510d9e45b/IQCI9HJDxWWCR6C6fObXIXzVAY7ZgGMlunuIB4PPtBGtgKM?e=n06bMF)
+
+**Note:** Power BI Desktop is required to open the `.pbix` file.
